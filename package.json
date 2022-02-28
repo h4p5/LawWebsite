@@ -19,5 +19,8 @@
   "homepage": "https://github.com/h4p5/LawWebsite#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.23"
+  },
+  "dependencies": {
+    "flowbite": "^1.3.4"
   }
 }
